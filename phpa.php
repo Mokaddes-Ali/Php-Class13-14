@@ -8,7 +8,6 @@
 <body>
     <?php
      echo "Hello laravel Devloper";
-     echo "Hi Laravel Developer";
     ?>
 </body>
 </html>
